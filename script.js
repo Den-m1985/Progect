@@ -1,4 +1,4 @@
-numbers = [2,5,13,7,6,4];
+numbers = [2,5,13,7,6,4,6];
 size = numbers.length;
 sum = 0;
 avg = 0
